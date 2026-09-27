@@ -12,6 +12,7 @@ backend/venv/
 
 # SQLite database
 backend/*.db
+backend/instance/*.db
 
 # Node
 frontend/node_modules/
